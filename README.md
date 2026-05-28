@@ -62,18 +62,6 @@ I strongly believe that great things are built when passionate minds collaborate
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Instagram Impressions Model](https://github.com/umairkaleem/instagram_impressions_model) | End-to-end ML web app for predicting Instagram post impressions | Python |
-| [Fighter Jet Shooting Game](https://github.com/umairkaleem/fighterJetShootingGame) | 2D action shooting game with player mechanics | C# |
-| [E-Commerce for Small Stores](https://github.com/umairkaleem/E-commerce-webpage-for-small-stores) | Complete e-commerce platform with admin & customer modules | PHP |
-| [Shopping Mall Guide](https://github.com/umairkaleem/1st-samester-project) | User calculation & shopping mall management system | C++ |
-| [DSA Array Operations](https://github.com/umairkaleem/DSA_Array_operation-) | Practice and implementation of array operations in DSA | C++ |
-| [Binary Search Tree](https://github.com/umairkaleem/Opperations_on_BinaryTree_lab_11_BST) | BST implementation with insert, delete & traversal operations | C++ |
-
----
 
 ## 🌍 Let's Connect & Collaborate
 
