@@ -40,7 +40,7 @@ I strongly believe that great things are built when passionate minds collaborate
   - Data Science
   - AI Web Applications
   - Deep Learning Concepts
-- 🏗️ Love building complete projects — from game development to AI-powered systems
+- 🏗️ Love building complete projects — AI-powered systems
 - ⚡ Fun fact: People call me **"The Challenger"**
 
 ---
